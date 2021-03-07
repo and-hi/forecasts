@@ -1,10 +1,20 @@
-# forecasts
+# Forecasts
 Personal forecasts of future events. Evaluation of my forecasts. 
 
-I want to find out how well I can forecasts and how well calibrated my forecasts are. If you don't know the general idea, see e.g. metaculus.com.
+I want to find out how well I can forecasts and how well calibrated my forecasts are. If you don't know the general idea, see e.g. [metaculus.com](http://www.metaculus.com).
+
+
+## Table of Contents
+1. [Covid](##Covid)
+	1. [Third Wave in Germany](#third_wave)
+	2. [Year End 2021](#year_end)
+	3. [Mutations](###mutations)
+	4. [Vaccination Progress](#vaccination)
+2. [Evaluation](##evaluation)
+
 ## Covid
 
-### Third Wave in Germany
+### Third Wave in Germany <a name="third_wave"></a>
 
 #### Quick Third Wave
 1. Federal 7-day incidence/100k >= 100 on at least one day before 2021-05-01:
@@ -27,7 +37,7 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 
 4. Federal number of Covid patients in ICU >= 5000 according to DIVI/RKI on at least one day before 2021-05-01:
 
-#### Third Wave at Any Point this Year
+#### Third Wave at Any Point this Year 
 1. Federal 7-day incidence/100k >= 100 on at least one day before 2021-12-31:
 
 | Prediction Date | Prediction |
@@ -52,7 +62,7 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 |---|---|
 |  2021-03-07 | % |
 
-### Year End 2021
+### Year End 2021 <a name="year_end"></a>
 1. Total case number >= 5,000,000 by 2021-12-31:
 
 | Prediction Date | Prediction |
@@ -67,7 +77,7 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 
 3. Total deaths by 2021-12-31:
 
-### Mutations
+### Mutations <a name="mutations"></a>
 
 1. B 1.1.7 will be the dominant strain by 2021-04-01:
 
@@ -81,7 +91,7 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 |---|---|
 |  2021-03-07 | % |
 
-### Vaccination Progress
+### Vaccination Progress <a name="vaccination"></a>
 
 1. Merkel's promise of everyone who wants and is allowed receiving an offer for vaccination by 2021-09-21. I will  interpret this strictly as having received a first dose.:
 
@@ -95,7 +105,7 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 |---|---|
 |  2021-03-07 | % |
 
-## German Federal Election
+## Evaluation 
 
-
+Nothing to evaluate yet.
 
