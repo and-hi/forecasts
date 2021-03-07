@@ -5,14 +5,14 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 
 
 ## Table of Contents
-1. [Covid](##Covid)
+1. [Covid](#covid)
 	1. [Third Wave in Germany](#third_wave)
 	2. [Year End 2021](#year_end)
-	3. [Mutations](###mutations)
+	3. [Mutations](#mutations)
 	4. [Vaccination Progress](#vaccination)
 2. [Evaluation](##evaluation)
 
-## Covid
+## Covid <a name="covid"></a>
 
 ### Third Wave in Germany <a name="third_wave"></a>
 
@@ -105,7 +105,7 @@ I want to find out how well I can forecasts and how well calibrated my forecasts
 |---|---|
 |  2021-03-07 | % |
 
-## Evaluation 
+## Evaluation <a name="evaluation"></a>
 
 Nothing to evaluate yet.
 
